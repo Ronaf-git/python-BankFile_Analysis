@@ -6,12 +6,15 @@ Note : sample file provided to test
 
 ### How-to:
 
-1. **Delete the provided sample file.**
+0. **Extract BankFile_Analysis_Pack_v0.1.rar into a dedicated folder**
+  > **Note:** Other Files are the source code.
 
-2. **Add your BankFile to the designated folder (Source).**
+1. **Add your BankFile to the designated folder (Source).**
    > **Note:** There is currently no check to validate if the file fits with the parser. Please ensure that you provide the correct BankFile in the appropriate folder.
 
-3. **Adjust categories as desired.**
+2. **Delete the provided sample file.**
+
+3. **Adjust categories as desired (Files in folder Resources).**
 
    A) **Config: "CategoriesDefinition.csv"**
 

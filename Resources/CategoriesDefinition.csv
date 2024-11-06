@@ -1,0 +1,63 @@
+﻿ID;C1_Code;C1_Label;C2_Code;C2_Label;C3_Code;C3_Label;C4_Code;C4_Label;C5_Code;C5_Label;IsExp;Cat_20_30_50;AssetType
+00_02_02;00;Groceries;02;Apéritif;02;Olives;;;;;1;50%;0
+00_02_03;00;Groceries;02;Apéritif;03;Sausage;;;;;1;50%;0
+00_02_99;00;Groceries;02;Apéritif;99;NA;;;;;1;50%;0
+00_03_01;00;Groceries;03;Drinks;01;Beer;;;;;1;50%;0
+00_03_99;00;Groceries;03;Drinks;99;NA;;;;;1;50%;0
+00_04_02;00;Groceries;04;Bakery;02;Bread;;;;;1;50%;0
+00_04_99;00;Groceries;04;Bakery;99;NA;;;;;1;50%;0
+00_05_05;00;Groceries;05;Charcuterie;05;Ham;;;;;1;50%;0
+00_05_99;00;Groceries;05;Charcuterie;99;NA;;;;;1;50%;0
+00_06_01;00;Groceries;06;Condiments;01;Spices;;;;;1;50%;0
+00_06_02;00;Groceries;06;Condiments;02;Oil;;;;;1;50%;0
+00_13_09;00;Groceries;13;Cheese;09;Parmesan;;;;;1;50%;0
+00_13_99;00;Groceries;13;Cheese;99;NA;;;;;1;50%;0
+00_14_01;00;Groceries;14;Meat;01;Beef;;;;;1;50%;0
+00_14_99;00;Groceries;14;Meat;99;NA;;;;;1;50%;0
+00_15_01;00;Groceries;15;Fish;01;Salmon;;;;;1;50%;0
+00_15_99;00;Groceries;15;Fish;99;NA;;;;;1;50%;0
+00_16_01;00;Groceries;16;Fruits;01;Apples;;;;;1;50%;0
+00_16_99;00;Groceries;16;Fruits;99;NA;;;;;1;50%;0
+00_17_01;00;Groceries;17;Vegetables;01;Tomatoes;;;;;1;50%;0
+00_17_99;00;Groceries;17;Vegetables;99;NA;;;;;1;50%;0
+00_19_01;00;Groceries;19;Raw Materials;01;Sugar;;;;;1;50%;0
+00_19_02;00;Groceries;19;Raw Materials;02;Gelling Sugar;;;;;1;50%;0
+00_19_03;00;Groceries;19;Raw Materials;03;Pectin;;;;;1;50%;0
+00_19_04;00;Groceries;19;Raw Materials;04;Cinnamon;;;;;1;50%;0
+00_19_05;00;Groceries;19;Raw Materials;05;Vanilla;;;;;1;50%;0
+00_19_06;00;Groceries;19;Raw Materials;06;Brown Sugar;;;;;1;50%;0
+00_99_99;00;Groceries;99;NA;99;NA;;;;;1;50%;0
+01_03;01;various;03;Gift;;;;;;;1;30%;0
+01_04;01;various;04;Cash Withdrawal;;;;;;;1;30%;0
+01_99;01;various;99;NA;;;;;;;1;30%;0
+02_01;02;Energy;01;Water;;;;;;;1;50%;0
+02_99;02;Energy;99;NA;;;;;;;1;50%;0
+03_01;03;Investments;01;bank interest;;;;;;;1;20%;bank interest
+03_02;03;Investments;02;Shares;;;;;;;1;20%;Shares
+03_03;03;Investments;03;ETF;;;;;;;1;20%;Shares
+03_04;03;Investments;04;Crowdlending;;;;;;;1;20%;Crowdlending
+03_99;03;Investments;99;NA;;;;;;;1;20%;Unknown
+04_01;04;Leisure;01;Restaurant;;;;;;;1;30%;0
+04_02;04;Leisure;02;Streaming;;;;;;;1;30%;0
+04_03;04;Leisure;03;party;;;;;;;1;30%;0
+04_07_02;04;Leisure;07;Sport;02;Pool;;;;;1;30%;0
+04_07_03;04;Leisure;07;Sport;03;Padel;;;;;1;30%;0
+04_07_99;04;Leisure;07;Sport;99;NA;;;;;1;30%;0
+04_99;04;Leisure;99;NA;;;;;;;1;30%;0
+05_01;05;Home;01;Insurance;;;;;;;1;50%;0
+05_02;05;Home;02;Main Residence;;;;;;;1;50%;Real Estate
+05_99;05;Home;99;NA;;;;;;;1;50%;0
+06_01;06;Income;01;salary;;;;;;;0;100%;0
+06_05;06;Income;05;Donations ;;;;;;;0;100%;0
+06_99;06;Income;99;NA;;;;;;;0;100%;0
+07_04;07;Health;04;Doctors;;;;;;;1;50%;0
+07_99;07;Health;99;NA;;;;;;;1;50%;0
+10_01;10;Telecom;01;Phone;;;;;;;1;50%;0
+10_02;10;Telecom;02;Internet;;;;;;;1;50%;0
+10_99;10;Telecom;99;NA;;;;;;;1;50%;0
+11_04;11;Car;04;Fuel;;;;;;;1;50%;0
+11_07;11;Car;07;Parking;;;;;;;1;50%;0
+11_99;11;Car;99;NA;;;;;;;1;50%;0
+97;97;Transfer;;;;;;;;;1;100%;0
+99_99;99;Unknown;99;Unknown;;;;;;;1;50%;0
+AA_BB_CC_DD_EE;AA;AA Label;BB;BB Label;CC;CC Label;DD;DD Label;EE;;EE Label;0;50%

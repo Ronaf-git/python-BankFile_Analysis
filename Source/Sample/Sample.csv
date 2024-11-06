@@ -1,0 +1,204 @@
+Date;Balance;Details
+01-01-23;120;Starting balance
+05-01-23;-150;Purchase at Electronics Store
+10-01-23;1500;Deposit from Paycheck
+15-01-23;-100;Transfer to Savings Account
+25-01-23;-100;Groceries and Household Expenses
+01-02-23;1500;Paycheck Deposit
+05-02-23;-50;Medical Bill Payment
+10-02-23;150;Deposit from Side Project
+15-02-23;-100;Transfer to Investment Account
+25-02-23;-50;Supermarket Purchase
+01-03-23;1500;Deposit from Paycheck
+05-03-23;-150;Car Repair
+15-03-23;-150;Groceries and Utilities
+25-03-23;-100;Transfer to Savings
+01-04-23;200;Deposit from Paycheck
+05-04-23;-200;Medical Expense
+15-04-23;-100;Groceries and Household Items
+20-04-23;200;Client Payment
+25-04-23;-50;Supermarket Purchase
+01-05-23;1500;Deposit from Paycheck
+05-05-23;-150;Restaurant Dinner
+15-05-23;-100;Medical Payment
+25-05-23;-50;Groceries and Household Expenses
+01-06-23;1500;Deposit from Paycheck
+05-06-23;-200;Car Insurance Payment
+10-06-23;200;Side Project Income
+15-06-23;-150;Utility Bills
+25-06-23;-100;Groceries and Household Expenses
+01-07-23;1500;Deposit from Paycheck
+05-07-23;-100;Medical Expense
+15-07-23;-150;Transfer to Savings Account
+25-07-23;-50;Groceries and Household Purchases
+01-08-23;1500;Deposit from Paycheck
+05-08-23;-200;Medical Bill Payment
+15-08-23;-100;Supermarket Purchase
+25-08-23;-50;Utilities Payment
+01-09-23;1000;Deposit from Paycheck
+05-09-23;-150;Medical Expense
+15-09-23;-50;Groceries
+20-09-23;200;Side Project Income
+25-09-23;-100;Transfer to Savings
+01-10-23;1500;Deposit from Paycheck
+05-10-23;-100;Groceries and Household Expenses
+15-10-23;-150;Restaurant Dinner
+25-10-23;-50;Medical Bill Payment
+01-11-23;1500;Deposit from Paycheck
+05-11-23;-200;Car Repair
+15-11-23;-100;Transfer to Savings Account
+25-11-23;-50;Groceries and Household Items
+01-12-23;1500;Deposit from Paycheck
+05-12-23;-100;Restaurant Dinner
+15-12-23;-150;Medical Bill Payment
+25-12-23;-50;Groceries
+01-01-24;1500;Deposit from Paycheck
+05-01-24;-200;Medical Bill Payment
+15-01-24;-100;Transfer to Savings Account
+20-01-24;250;Side Project Income
+25-01-24;-50;Groceries and Household Expenses
+01-02-24;1500;Deposit from Paycheck
+05-02-24;-150;Groceries and Utilities
+15-02-24;-100;Transfer to Savings
+20-02-24;150;Deposit from Side Project
+25-02-24;-50;Supermarket Purchase
+01-03-24;155;Deposit from Paycheck
+05-03-24;-100;Medical Bill Payment
+15-03-24;-150;Groceries and Household Expenses
+25-03-24;-100;Transfer to Investment Fund
+01-04-24;1500;Deposit from Paycheck
+05-04-24;-200;Car Insurance Payment
+15-04-24;-100;Medical Expense
+25-04-24;-50;Groceries
+01-05-24;1500;Deposit from Paycheck
+05-05-24;-200;Medical Bill Payment
+15-05-24;-100;Groceries and Household Items
+25-05-24;-50;Utilities Payment
+01-06-24;200;Deposit from Paycheck
+05-06-24;-150;Medical Expense
+15-06-24;-100;Groceries and Household Purchases
+25-06-24;-50;Supermarket Purchase
+01-07-24;456.8;Deposit from Paycheck
+05-07-24;-100;Medical Bill Payment
+15-07-24;-150;Transfer to Savings Account
+25-07-24;-50;Groceries and Household Purchases
+01-08-24;12.5;Deposit from Paycheck
+05-08-24;-200;Medical Bill Payment
+15-08-24;-100;Supermarket Purchase
+25-08-24;-50;Utilities Payment
+01-09-24;1500;Deposit from Paycheck
+05-09-24;-150;Medical Expense
+15-09-24;-50;Groceries
+20-09-24;200;Side Project Income
+25-09-24;-100;Transfer to Savings
+01-10-24;1420;Deposit from Paycheck
+05-10-24;-100;Groceries and Household Expenses
+15-10-24;-152.4;Restaurant Dinner
+25-10-24;-50;Medical Bill Payment
+01-01-23;-250;ETF Investments
+01-02-23;-250;ETF Investments
+01-03-23;-250;ETF Investments
+01-04-23;-250;ETF Investments
+01-05-23;-250;ETF Investments
+01-06-23;-250;ETF Investments
+01-07-23;-250;ETF Investments
+01-08-23;-250;ETF Investments
+01-09-23;-250;ETF Investments
+01-10-23;-250;ETF Investments
+01-11-23;-250;ETF Investments
+01-12-23;-250;ETF Investments
+01-01-24;-250;ETF Investments
+01-02-24;-250;ETF Investments
+01-03-24;-250;ETF Investments
+01-04-24;-250;ETF Investments
+01-05-24;-250;ETF Investments
+01-06-24;-250;ETF Investments
+01-07-24;-250;ETF Investments
+01-08-24;-250;ETF Investments
+01-09-24;-250;ETF Investments
+01-10-24;-250;ETF Investments
+01-01-23;-300;Shares
+01-02-23;-300;Shares
+01-03-23;-300;Shares
+01-04-23;-300;Shares
+01-05-23;-300;Shares
+01-06-23;-300;Shares
+01-07-23;-300;Shares
+01-08-23;-300;Shares
+01-09-23;-300;Shares
+01-10-23;-300;Shares
+01-11-23;-300;Shares
+01-12-23;-300;Shares
+01-01-24;-300;Shares
+01-02-24;-300;Shares
+01-03-24;-300;Shares
+01-04-24;-300;Shares
+01-05-24;-300;Shares
+01-06-24;-300;Shares
+01-07-24;-300;Shares
+01-08-24;-300;Shares
+01-09-24;-300;Shares
+01-10-24;-300;Shares
+01-01-23;-58;Party expenses
+01-02-23;-100;Nice Cheese
+01-03-23;-45;lot of apples
+01-04-23;-26;Padel
+01-05-23;-100;pool
+01-06-23;-100;Padel
+01-07-23;-58;olives aperitif
+01-08-23;-45;Party expenses
+01-09-23;-26;doctor bill
+01-10-23;-100;Nice Cheese
+01-11-23;-45;lot of apples
+01-12-23;-26;Nice Cheese
+01-01-24;-100;Padel
+01-02-24;-56;parking bill
+01-03-24;-26;Party expenses
+01-04-24;-100;tomatoes
+01-05-24;-26;Nice Cheese
+01-06-24;-56;parking bill
+01-07-24;-50;lot of apples
+01-08-24;-50;Party expenses
+01-09-24;-488;fuels
+01-10-24;-100;pool
+01-01-23;-58;water bill
+01-02-23;-58;water bill
+01-07-23;-58;water bill
+01-08-23;-58;water bill
+01-09-23;-58;water bill
+01-10-23;-58;water bill
+01-11-23;-58;water bill
+01-12-23;-58;water bill
+01-06-24;-58;water bill
+01-07-24;-58;water bill
+01-08-24;-58;water bill
+01-09-24;-58;water bill
+01-10-24;-58;water bill
+01-06-24;-1500;Crowdlending OS
+01-01-23;-8;Phone bill
+01-02-23;-8;Phone bill
+01-07-23;-8;Phone bill
+01-08-23;-8;Phone bill
+01-09-23;-8;Phone bill
+01-10-23;-8;Phone bill
+01-11-23;-8;Phone bill
+01-12-23;-8;Phone bill
+01-06-24;-8;Phone bill
+01-07-24;-8;Phone bill
+01-08-24;-8;Phone bill
+01-09-24;-8;Phone bill
+01-10-24;-8;Phone bill
+01-01-23;-12;internet
+01-02-23;-12;Phone bill
+01-07-23;-12;Phone bill
+01-08-23;-12;Phone bill
+01-09-23;-12;Phone bill
+01-10-23;-12;Phone bill
+01-11-23;-12;Phone bill
+01-12-23;-12;Phone bill
+01-06-24;-12;Phone bill
+01-07-24;-12;Phone bill
+01-08-24;-12;Phone bill
+01-09-24;-12;Phone bill
+01-10-24;-12;Phone bill
+01-10-23;-18;specialexpense

@@ -1,0 +1,42 @@
+﻿Pattern;CategorieID_FK
+Car Insurance Payment;11_99
+Car Repair;11_99
+Client Payment;06_01
+Crowdlending OS;03_04
+Deposit from Paycheck;06_01
+Deposit from Side Project;06_01
+doctor bill;07_04
+ETF Investments;03_03
+fuels;11_04
+Groceries;00_99_99
+Groceries and Household Expenses;00_99_99
+Groceries and Household Items;00_99_99
+Groceries and Household Purchases;00_99_99
+Groceries and Utilities;00_99_99
+internet;10_02
+lot of apples;00_16_01
+Medical Bill Payment;07_04
+Medical Expense;07_99
+Medical Payment;07_99
+Nice Cheese;00_13_09
+olives aperitif;00_02_02
+Padel;04_07_03
+parking bill;11_07
+Party expenses;04_03
+Paycheck Deposit;06_01
+Phone bill;10_01
+pool;04_07_02
+Purchase at Electronics Store;01_99
+Restaurant Dinner;04_01
+Shares;03_03
+Side Project Income;06_01
+Starting balance;06_99
+Supermarket Purchase;00_99_99
+tomatoes;00_17_01
+Transfer to Investment Account;03_99
+Transfer to Investment Fund;03_02
+Transfer to Savings;06_01
+Transfer to Savings Account;06_01
+Utilities Payment;01_99
+Utility Bills;01_99
+water bill;02_01
