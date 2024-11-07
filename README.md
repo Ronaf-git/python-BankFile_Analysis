@@ -6,7 +6,7 @@ Note : sample file provided to test
 
 ### How-to:
 
-0. **Extract BankFile_Analysis_Pack_v0.1.rar into a dedicated folder**
+0. **Extract BankFile_Analysis_Pack_v0.1.rar into a dedicated folder - see 'Release'**
   > **Note:** Other Files are the source code.
 
 1. **Add your BankFile to the designated folder (Source).**
